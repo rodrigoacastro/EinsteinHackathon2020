@@ -1,0 +1,587 @@
+date,city,amount
+01-01-2019,Brasília,427.10
+01-01-2019,Campo Grande,414.83
+01-01-2019,Cuiabá,
+01-01-2019,Goiânia,398.23
+01-01-2019,Belo Horizonte,405.40
+01-01-2019,Rio de Janeiro,460.46
+01-01-2019,São Paulo,467.65
+01-01-2019,Vitória,424.21
+01-01-2019,Curitiba,401.63
+01-01-2019,Florianópolis,437.55
+01-01-2019,Porto Alegre,441.65
+01-01-2019,Belém,384.78
+01-01-2019,Boa Vista,
+01-01-2019,Macapá,
+01-01-2019,Manaus,
+01-01-2019,Palmas,
+01-01-2019,Porto Velho,
+01-01-2019,Rio Branco,
+01-01-2019,Aracaju,356.56
+01-01-2019,Fortaleza,403.99
+01-01-2019,João Pessoa,360.92
+01-01-2019,Maceió,
+01-01-2019,Natal,351.83
+01-01-2019,Recife,348.85
+01-01-2019,Salvador,353.43
+01-01-2019,São Luís,353.85
+01-01-2019,Teresina,
+01-01-2019,Macaé,
+01-02-2019,Brasília,427.54
+01-02-2019,Campo Grande,438.64
+01-02-2019,Cuiabá,
+01-02-2019,Goiânia,416.40
+01-02-2019,Belo Horizonte,425.00
+01-02-2019,Rio de Janeiro,464.47
+01-02-2019,São Paulo,482.40
+01-02-2019,Vitória,449.54
+01-02-2019,Curitiba,414.03
+01-02-2019,Florianópolis,441.89
+01-02-2019,Porto Alegre,449.95
+01-02-2019,Belém,383.76
+01-02-2019,Boa Vista,
+01-02-2019,Macapá,
+01-02-2019,Manaus,
+01-02-2019,Palmas,
+01-02-2019,Porto Velho,
+01-02-2019,Rio Branco,
+01-02-2019,Aracaju,379.61
+01-02-2019,Fortaleza,416.86
+01-02-2019,João Pessoa,378.26
+01-02-2019,Maceió,
+01-02-2019,Natal,375.58
+01-02-2019,Recife,376.34
+01-02-2019,Salvador,362.93
+01-02-2019,São Luís,368.82
+01-02-2019,Teresina,
+01-02-2019,Macaé,
+01-03-2019,Brasília,474.94
+01-03-2019,Campo Grande,447.50
+01-03-2019,Cuiabá,
+01-03-2019,Goiânia,433.43
+01-03-2019,Belo Horizonte,443.26
+01-03-2019,Rio de Janeiro,496.33
+01-03-2019,São Paulo,509.11
+01-03-2019,Vitória,475.84
+01-03-2019,Curitiba,443.86
+01-03-2019,Florianópolis,474.07
+01-03-2019,Porto Alegre,479.53
+01-03-2019,Belém,408.67
+01-03-2019,Boa Vista,
+01-03-2019,Macapá,
+01-03-2019,Manaus,
+01-03-2019,Palmas,
+01-03-2019,Porto Velho,
+01-03-2019,Rio Branco,
+01-03-2019,Aracaju,385.62
+01-03-2019,Fortaleza,445.12
+01-03-2019,João Pessoa,400.38
+01-03-2019,Maceió,
+01-03-2019,Natal,399.01
+01-03-2019,Recife,401.35
+01-03-2019,Salvador,382.35
+01-03-2019,São Luís,395.58
+01-03-2019,Teresina,
+01-03-2019,Macaé,
+01-04-2019,Brasília,487.02
+01-04-2019,Campo Grande,492.55
+01-04-2019,Cuiabá,
+01-04-2019,Goiânia,445.28
+01-04-2019,Belo Horizonte,456.91
+01-04-2019,Rio de Janeiro,515.58
+01-04-2019,São Paulo,522.05
+01-04-2019,Vitória,498.54
+01-04-2019,Curitiba,461.91
+01-04-2019,Florianópolis,482.30
+01-04-2019,Porto Alegre,499.38
+01-04-2019,Belém,423.17
+01-04-2019,Boa Vista,
+01-04-2019,Macapá,
+01-04-2019,Manaus,
+01-04-2019,Palmas,
+01-04-2019,Porto Velho,
+01-04-2019,Rio Branco,
+01-04-2019,Aracaju,404.68
+01-04-2019,Fortaleza,459.20
+01-04-2019,João Pessoa,412.27
+01-04-2019,Maceió,
+01-04-2019,Natal,410.10
+01-04-2019,Recife,417.03
+01-04-2019,Salvador,396.75
+01-04-2019,São Luís,423.66
+01-04-2019,Teresina,
+01-04-2019,Macaé,
+01-05-2019,Brasília,487.30
+01-05-2019,Campo Grande,423.97
+01-05-2019,Cuiabá,
+01-05-2019,Goiânia,425.35
+01-05-2019,Belo Horizonte,424.85
+01-05-2019,Rio de Janeiro,492.93
+01-05-2019,São Paulo,507.07
+01-05-2019,Vitória,484.84
+01-05-2019,Curitiba,451.38
+01-05-2019,Florianópolis,487.93
+01-05-2019,Porto Alegre,496.13
+01-05-2019,Belém,418.05
+01-05-2019,Boa Vista,
+01-05-2019,Macapá,
+01-05-2019,Manaus,
+01-05-2019,Palmas,
+01-05-2019,Porto Velho,
+01-05-2019,Rio Branco,
+01-05-2019,Aracaju,408.16
+01-05-2019,Fortaleza,444.44
+01-05-2019,João Pessoa,403.57
+01-05-2019,Maceió,
+01-05-2019,Natal,406.07
+01-05-2019,Recife,417.85
+01-05-2019,Salvador,392.97
+01-05-2019,São Luís,
+01-05-2019,Teresina,
+01-05-2019,Macaé,
+01-06-2019,Brasília,454.90
+01-06-2019,Campo Grande,428.33
+01-06-2019,Cuiabá,
+01-06-2019,Goiânia,421.65
+01-06-2019,Belo Horizonte,429.30
+01-06-2019,Rio de Janeiro,498.67
+01-06-2019,São Paulo,501.68
+01-06-2019,Vitória,485.34
+01-06-2019,Curitiba,446.54
+01-06-2019,Florianópolis,494.96
+01-06-2019,Porto Alegre,498.41
+01-06-2019,Belém,407.67
+01-06-2019,Boa Vista,
+01-06-2019,Macapá,
+01-06-2019,Manaus,
+01-06-2019,Palmas,
+01-06-2019,Porto Velho,
+01-06-2019,Rio Branco,
+01-06-2019,Aracaju,383.09
+01-06-2019,Fortaleza,448.73
+01-06-2019,João Pessoa,398.72
+01-06-2019,Maceió,
+01-06-2019,Natal,397.24
+01-06-2019,Recife,396.21
+01-06-2019,Salvador,384.76
+01-06-2019,São Luís,
+01-06-2019,Teresina,
+01-06-2019,Macaé,
+01-07-2019,Brasília,449.27
+01-07-2019,Campo Grande,420.07
+01-07-2019,Cuiabá,
+01-07-2019,Goiânia,420.55
+01-07-2019,Belo Horizonte,415.03
+01-07-2019,Rio de Janeiro,479.28
+01-07-2019,São Paulo,493.16
+01-07-2019,Vitória,466.93
+01-07-2019,Curitiba,443.68
+01-07-2019,Florianópolis,483.20
+01-07-2019,Porto Alegre,493.22
+01-07-2019,Belém,403.35
+01-07-2019,Boa Vista,
+01-07-2019,Macapá,
+01-07-2019,Manaus,
+01-07-2019,Palmas,
+01-07-2019,Porto Velho,
+01-07-2019,Rio Branco,
+01-07-2019,Aracaju,359.95
+01-07-2019,Fortaleza,432.96
+01-07-2019,João Pessoa,385.58
+01-07-2019,Maceió,
+01-07-2019,Natal,381.27
+01-07-2019,Recife,381.10
+01-07-2019,Salvador,372.25
+01-07-2019,São Luís,
+01-07-2019,Teresina,
+01-07-2019,Macaé,
+01-08-2019,Brasília,433.45
+01-08-2019,Campo Grande,408.11
+01-08-2019,Cuiabá,
+01-08-2019,Goiânia,399.40
+01-08-2019,Belo Horizonte,401.14
+01-08-2019,Rio de Janeiro,462.24
+01-08-2019,São Paulo,481.44
+01-08-2019,Vitória,441.50
+01-08-2019,Curitiba,441.28
+01-08-2019,Florianópolis,464.24
+01-08-2019,Porto Alegre,469.17
+01-08-2019,Belém,393.94
+01-08-2019,Boa Vista,
+01-08-2019,Macapá,
+01-08-2019,Manaus,
+01-08-2019,Palmas,
+01-08-2019,Porto Velho,
+01-08-2019,Rio Branco,
+01-08-2019,Aracaju,337.96
+01-08-2019,Fortaleza,402.84
+01-08-2019,João Pessoa,367.86
+01-08-2019,Maceió,
+01-08-2019,Natal,354.44
+01-08-2019,Recife,361.64
+01-08-2019,Salvador,350.75
+01-08-2019,São Luís,
+01-08-2019,Teresina,
+01-08-2019,Macaé,
+01-09-2019,Brasília,420.01
+01-09-2019,Campo Grande,396.98
+01-09-2019,Cuiabá,
+01-09-2019,Goiânia,391.31
+01-09-2019,Belo Horizonte,390.93
+01-09-2019,Rio de Janeiro,458.21
+01-09-2019,São Paulo,473.85
+01-09-2019,Vitória,429.06
+01-09-2019,Curitiba,424.81
+01-09-2019,Florianópolis,454.94
+01-09-2019,Porto Alegre,458.29
+01-09-2019,Belém,382.11
+01-09-2019,Boa Vista,
+01-09-2019,Macapá,
+01-09-2019,Manaus,
+01-09-2019,Palmas,
+01-09-2019,Porto Velho,
+01-09-2019,Rio Branco,
+01-09-2019,Aracaju,328.70
+01-09-2019,Fortaleza,384.17
+01-09-2019,João Pessoa,359.62
+01-09-2019,Maceió,
+01-09-2019,Natal,352.57
+01-09-2019,Recife,367.16
+01-09-2019,Salvador,345.04
+01-09-2019,São Luís,
+01-09-2019,Teresina,
+01-09-2019,Macaé,
+01-10-2019,Brasília,441.91
+01-10-2019,Campo Grande,409.30
+01-10-2019,Cuiabá,
+01-10-2019,Goiânia,395.70
+01-10-2019,Belo Horizonte,391.85
+01-10-2019,Rio de Janeiro,462.57
+01-10-2019,São Paulo,473.59
+01-10-2019,Vitória,428.25
+01-10-2019,Curitiba,421.86
+01-10-2019,Florianópolis,458.28
+01-10-2019,Porto Alegre,463.24
+01-10-2019,Belém,377.37
+01-10-2019,Boa Vista,
+01-10-2019,Macapá,
+01-10-2019,Manaus,
+01-10-2019,Palmas,
+01-10-2019,Porto Velho,
+01-10-2019,Rio Branco,
+01-10-2019,Aracaju,325.01
+01-10-2019,Fortaleza,387.18
+01-10-2019,João Pessoa,351.19
+01-10-2019,Maceió,
+01-10-2019,Natal,341.90
+01-10-2019,Recife,359.55
+01-10-2019,Salvador,347.65
+01-10-2019,São Luís,
+01-10-2019,Teresina,
+01-11-2019,Brasília,
+01-11-2019,Campo Grande,422.06
+01-11-2019,Cuiabá,
+01-11-2019,Goiânia,400.16
+01-11-2019,Belo Horizonte,393.58
+01-11-2019,Rio de Janeiro,455.37
+01-11-2019,São Paulo,465.81
+01-11-2019,Vitória,462.06
+01-11-2019,Curitiba,413.63
+01-11-2019,Florianópolis,478.68
+01-11-2019,Porto Alegre,453.82
+01-11-2019,Belém,381.28
+01-11-2019,Boa Vista,
+01-11-2019,Macapá,
+01-11-2019,Manaus,
+01-11-2019,Palmas,
+01-11-2019,Porto Velho,
+01-11-2019,Rio Branco,
+01-11-2019,Aracaju,325.40
+01-11-2019,Fortaleza,395.82
+01-11-2019,João Pessoa,347.14
+01-11-2019,Maceió,
+01-11-2019,Natal,347.89
+01-11-2019,Recife,354.64
+01-11-2019,Salvador,341.45
+01-11-2019,São Luís,
+01-11-2019,Teresina,
+01-12-2019,Brasília,473.90
+01-12-2019,Campo Grande,450.08
+01-12-2019,Cuiabá,
+01-12-2019,Goiânia,454.75
+01-12-2019,Belo Horizonte,444.91
+01-12-2019,Rio de Janeiro,516.91
+01-12-2019,São Paulo,506.50
+01-12-2019,Vitória,499.23
+01-12-2019,Curitiba,458.88
+01-12-2019,Florianópolis,511.70
+01-12-2019,Porto Alegre,506.30
+01-12-2019,Belém,414.13
+01-12-2019,Boa Vista,
+01-12-2019,Macapá,
+01-12-2019,Manaus,
+01-12-2019,Palmas,
+01-12-2019,Porto Velho,
+01-12-2019,Rio Branco,
+01-12-2019,Aracaju,351.97
+01-12-2019,Fortaleza,433.64
+01-12-2019,João Pessoa,373.56
+01-12-2019,Maceió,
+01-12-2019,Natal,383.76
+01-12-2019,Recife,393.80
+01-12-2019,Salvador,360.51
+01-12-2019,São Luís,
+01-12-2019,Teresina,
+01-12-2019,Macaé,
+01-01-2020,Brasília,483.17
+01-01-2020,Campo Grande,458.00
+01-01-2020,Cuiabá,
+01-01-2020,Goiânia,455.08
+01-01-2020,Belo Horizonte,456.35
+01-01-2020,Rio de Janeiro,507.13
+01-01-2020,São Paulo,517.51
+01-01-2020,Vitória,492.20
+01-01-2020,Curitiba,452.32
+01-01-2020,Florianópolis,489.13
+01-01-2020,Porto Alegre,502.98
+01-01-2020,Belém,415.56
+01-01-2020,Boa Vista,
+01-01-2020,Macapá,
+01-01-2020,Manaus,
+01-01-2020,Palmas,
+01-01-2020,Porto Velho,
+01-01-2020,Rio Branco,
+01-01-2020,Aracaju,368.69
+01-01-2020,Fortaleza,433.39
+01-01-2020,João Pessoa,388.02
+01-01-2020,Maceió,
+01-01-2020,Natal,389.26
+01-01-2020,Recife,395.93
+01-01-2020,Salvador,376.49
+01-01-2020,São Luís,
+01-01-2020,Teresina,
+01-01-2020,Macaé,
+01-02-2020,Brasília,481.78
+01-02-2020,Campo Grande,445.40
+01-02-2020,Cuiabá,
+01-02-2020,Goiânia,448.62
+01-02-2020,Belo Horizonte,459.10
+01-02-2020,Rio de Janeiro,505.55
+01-02-2020,São Paulo,519.76
+01-02-2020,Vitória,480.03
+01-02-2020,Curitiba,447.91
+01-02-2020,Florianópolis,493.15
+01-02-2020,Porto Alegre,492.83
+01-02-2020,Belém,432.95
+01-02-2020,Boa Vista,
+01-02-2020,Macapá,
+01-02-2020,Manaus,
+01-02-2020,Palmas,
+01-02-2020,Porto Velho,
+01-02-2020,Rio Branco,
+01-02-2020,Aracaju,371.22
+01-02-2020,Fortaleza,462.99
+01-02-2020,João Pessoa,403.98
+01-02-2020,Maceió,
+01-02-2020,Natal,405.88
+01-02-2020,Recife,420.27
+01-02-2020,Salvador,395.49
+01-02-2020,São Luís,
+01-02-2020,Teresina,
+01-02-2020,Macaé,
+01-03-2020,Brasília,484.15
+01-03-2020,Campo Grande,474.53
+01-03-2020,Cuiabá,
+01-03-2020,Goiânia,456.18
+01-03-2020,Belo Horizonte,461.28
+01-03-2020,Rio de Janeiro,533.65
+01-03-2020,São Paulo,518.50
+01-03-2020,Vitória,504.78
+01-03-2020,Curitiba,465.47
+01-03-2020,Florianópolis,517.13
+01-03-2020,Porto Alegre,497.88
+01-03-2020,Belém,418.80
+01-03-2020,Boa Vista,
+01-03-2020,Macapá,
+01-03-2020,Manaus,
+01-03-2020,Palmas,
+01-03-2020,Porto Velho,
+01-03-2020,Rio Branco,
+01-03-2020,Aracaju,390.20
+01-03-2020,Fortaleza,475.11
+01-03-2020,João Pessoa,414.05
+01-03-2020,Maceió,
+01-03-2020,Natal,426.00
+01-03-2020,Recife,433.28
+01-03-2020,Salvador,408.06
+01-03-2020,São Luís,
+01-03-2020,Teresina,
+01-03-2020,Macaé,
+01-04-2020,Brasília,471.17
+01-04-2020,Campo Grande,495.69
+01-04-2020,Cuiabá,
+01-04-2020,Goiânia,493.21
+01-04-2020,Belo Horizonte,484.55
+01-04-2020,Rio de Janeiro,544.34
+01-04-2020,São Paulo,556.25
+01-04-2020,Vitória,537.89
+01-04-2020,Curitiba,511.23
+01-04-2020,Florianópolis,523.80
+01-04-2020,Porto Alegre,527.01
+01-04-2020,Belém,434.19
+01-04-2020,Boa Vista,
+01-04-2020,Macapá,
+01-04-2020,Manaus,
+01-04-2020,Palmas,
+01-04-2020,Porto Velho,
+01-04-2020,Rio Branco,
+01-04-2020,Aracaju,401.37
+01-04-2020,Fortaleza,482.46
+01-04-2020,João Pessoa,437.93
+01-04-2020,Maceió,
+01-04-2020,Natal,428.28
+01-04-2020,Recife,461.26
+01-04-2020,Salvador,425.12
+01-04-2020,São Luís,
+01-04-2020,Teresina,
+01-04-2020,Macaé,
+01-05-2020,Brasília,441.09
+01-05-2020,Campo Grande,455.35
+01-05-2020,Cuiabá,
+01-05-2020,Goiânia,505.99
+01-05-2020,Belo Horizonte,484.02
+01-05-2020,Rio de Janeiro,558.81
+01-05-2020,São Paulo,556.36
+01-05-2020,Vitória,536.73
+01-05-2020,Curitiba,531.27
+01-05-2020,Florianópolis,524.07
+01-05-2020,Porto Alegre,518.63
+01-05-2020,Belém,453.36
+01-05-2020,Boa Vista,
+01-05-2020,Macapá,
+01-05-2020,Manaus,
+01-05-2020,Palmas,
+01-05-2020,Porto Velho,
+01-05-2020,Rio Branco,
+01-05-2020,Aracaju,400.15
+01-05-2020,Fortaleza,455.18
+01-05-2020,João Pessoa,440.25
+01-05-2020,Maceió,
+01-05-2020,Natal,429.57
+01-05-2020,Recife,451.45
+01-05-2020,Salvador,410.33
+01-05-2020,São Luís,
+01-05-2020,Teresina,
+01-05-2020,Macaé,
+01-06-2020,Brasília,450.45
+01-06-2020,Campo Grande,475.01
+01-06-2020,Cuiabá,
+01-06-2020,Goiânia,480.78
+01-06-2020,Belo Horizonte,475.19
+01-06-2020,Rio de Janeiro,512.84
+01-06-2020,São Paulo,547.03
+01-06-2020,Vitória,500.01
+01-06-2020,Curitiba,506.04
+01-06-2020,Florianópolis,516.97
+01-06-2020,Porto Alegre,512.40
+01-06-2020,Belém,453.87
+01-06-2020,Boa Vista,
+01-06-2020,Macapá,
+01-06-2020,Manaus,
+01-06-2020,Palmas,
+01-06-2020,Porto Velho,
+01-06-2020,Rio Branco,
+01-06-2020,Aracaju,420.03
+01-06-2020,Fortaleza,464.31
+01-06-2020,João Pessoa,430.44
+01-06-2020,Maceió,
+01-06-2020,Natal,442.46
+01-06-2020,Recife,435.30
+01-06-2020,Salvador,419.18
+01-06-2020,São Luís,
+01-06-2020,Teresina,
+01-06-2020,Macaé,
+01-07-2020,Brasília,449.96
+01-07-2020,Campo Grande,479.79
+01-07-2020,Cuiabá,
+01-07-2020,Goiânia,472.86
+01-07-2020,Belo Horizonte,465.06
+01-07-2020,Rio de Janeiro,505.72
+01-07-2020,São Paulo,524.74
+01-07-2020,Vitória,484.80
+01-07-2020,Curitiba,526.14
+01-07-2020,Florianópolis,522.03
+01-07-2020,Porto Alegre,511.22
+01-07-2020,Belém,440.99
+01-07-2020,Boa Vista,
+01-07-2020,Macapá,
+01-07-2020,Manaus,
+01-07-2020,Palmas,
+01-07-2020,Porto Velho,
+01-07-2020,Rio Branco,
+01-07-2020,Aracaju,392.75
+01-07-2020,Fortaleza,454.74
+01-07-2020,João Pessoa,417.75
+01-07-2020,Maceió,
+01-07-2020,Natal,430.66
+01-07-2020,Recife,436.10
+01-07-2020,Salvador,415.22
+01-07-2020,São Luís,
+01-07-2020,Teresina,
+01-07-2020,Macaé,
+01-08-2020,Brasília,443.28
+01-08-2020,Campo Grande,484.46
+01-08-2020,Cuiabá,
+01-08-2020,Goiânia,483.15
+01-08-2020,Belo Horizonte,478.07
+01-08-2020,Rio de Janeiro,529.76
+01-08-2020,São Paulo,539.95
+01-08-2020,Vitória,509.45
+01-08-2020,Curitiba,505.54
+01-08-2020,Florianópolis,530.42
+01-08-2020,Porto Alegre,528.61
+01-08-2020,Belém,441.51
+01-08-2020,Boa Vista,
+01-08-2020,Macapá,
+01-08-2020,Manaus,
+01-08-2020,Palmas,
+01-08-2020,Porto Velho,
+01-08-2020,Rio Branco,
+01-08-2020,Aracaju,398.47
+01-08-2020,Fortaleza,462.13
+01-08-2020,João Pessoa,414.50
+01-08-2020,Maceió,
+01-08-2020,Natal,419.47
+01-08-2020,Recife,439.19
+01-08-2020,Salvador,418.72
+01-08-2020,São Luís,
+01-08-2020,Teresina,
+01-08-2020,Macaé,
+01-09-2020,Brasília,
+01-09-2020,Campo Grande,
+01-09-2020,Cuiabá,
+01-09-2020,Goiânia,
+01-09-2020,Belo Horizonte,
+01-09-2020,Rio de Janeiro,
+01-09-2020,São Paulo,
+01-09-2020,Vitória,
+01-09-2020,Curitiba,
+01-09-2020,Florianópolis,
+01-09-2020,Porto Alegre,
+01-09-2020,Belém,
+01-09-2020,Boa Vista,
+01-09-2020,Macapá,
+01-09-2020,Manaus,
+01-09-2020,Palmas,
+01-09-2020,Porto Velho,
+01-09-2020,Rio Branco,
+01-09-2020,Aracaju,
+01-09-2020,Fortaleza,
+01-09-2020,João Pessoa,
+01-09-2020,Maceió,
+01-09-2020,Natal,
+01-09-2020,Recife,
+01-09-2020,Salvador,
+01-09-2020,São Luís,
+01-09-2020,Teresina,
+01-09-2020,Macaé,

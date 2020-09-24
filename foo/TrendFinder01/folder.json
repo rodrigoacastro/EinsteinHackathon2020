@@ -1,0 +1,10 @@
+{
+  "name" : "TrendFinder",
+  "label" : "TrendFinder",
+  "description" : null,
+  "featuredAssets" : { },
+  "shares" : [{
+  "accessType" : "View" ,
+  "shareType" : "Organization"
+  }]
+}

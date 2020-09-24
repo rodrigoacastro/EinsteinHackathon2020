@@ -1,0 +1,225 @@
+{
+  "templateType" : "embeddedapp",
+  "autoInstallDefinition": "auto-install.json",
+  "label" : "TrendFinder",
+  "name" : "TrendFinder",
+  "description" : "",
+  "assetVersion" : 50.0,
+  "variableDefinition" : "variables.json",
+  "uiDefinition" : "ui.json",
+  "rules" : [
+    {
+      "type" : "templateToApp",
+      "file" : "template-to-app-rules.json"
+    },
+    {
+      "type" : "appToTemplate",
+      "file" : "app-to-template-rules.json"
+    }
+  ],
+  "releaseInfo" : {
+    "templateVersion" : "1.0",
+    "notesFile" : "releaseNotes.html"
+  },
+  "folderDefinition" : "folder.json",
+  "externalFiles" : [
+    {
+      "label" : "obito_cartorio",
+      "name" : "obito_cartorio1",
+      "condition" : "${Variables.Overrides.createAllExternalFiles}",
+      "file" : "external_files/obito_cartorio1.csv",
+      "type" : "CSV",
+      "schema" : "external_files/obito_cartorio1.json",
+      "userXmd" : "external_files/obito_cartorio1_XMD.json",
+      "rows" : 5
+    },
+    {
+      "label" : "caso_full",
+      "name" : "caso_full",
+      "condition" : "${Variables.Overrides.createAllExternalFiles}",
+      "file" : "external_files/caso_full.csv",
+      "type" : "CSV",
+      "schema" : "external_files/caso_full.json",
+      "userXmd" : "external_files/caso_full_XMD.json",
+      "rows" : 5
+    },
+    {
+      "label" : "indice_atividade_economica_brasil",
+      "name" : "indice_atividade_economica_brasil1",
+      "condition" : "${Variables.Overrides.createAllExternalFiles}",
+      "file" : "external_files/indice_atividade_economica_brasil1.csv",
+      "type" : "CSV",
+      "schema" : "external_files/indice_atividade_economica_brasil1.json",
+      "userXmd" : "external_files/indice_atividade_economica_brasil1_XMD.json",
+      "rows" : 5
+    },
+    {
+      "label" : "ipea_dados_trabalho",
+      "name" : "ipea_dados_trabalho",
+      "condition" : "${Variables.Overrides.createAllExternalFiles}",
+      "file" : "external_files/ipea_dados_trabalho.csv",
+      "type" : "CSV",
+      "schema" : "external_files/ipea_dados_trabalho.json",
+      "userXmd" : "external_files/ipea_dados_trabalho_XMD.json",
+      "rows" : 5
+    },
+    {
+      "label" : "USD_BRL_history_data",
+      "name" : "USD_BRL_history_data",
+      "condition" : "${Variables.Overrides.createAllExternalFiles}",
+      "file" : "external_files/USD_BRL_history_data.csv",
+      "type" : "CSV",
+      "schema" : "external_files/USD_BRL_history_data.json",
+      "userXmd" : "external_files/USD_BRL_history_data_XMD.json",
+      "rows" : 5
+    },
+    {
+      "label" : "ipea_dados_trabalho_sum_cols",
+      "name" : "ipea_dados_trabalho_sum_cols",
+      "condition" : "${Variables.Overrides.createAllExternalFiles}",
+      "file" : "external_files/ipea_dados_trabalho_sum_cols.csv",
+      "type" : "CSV",
+      "schema" : "external_files/ipea_dados_trabalho_sum_cols.json",
+      "userXmd" : "external_files/ipea_dados_trabalho_sum_cols_XMD.json",
+      "rows" : 5
+    },
+    {
+      "label" : "ipeacompleta_database",
+      "name" : "ipeacompleta_database",
+      "condition" : "${Variables.Overrides.createAllExternalFiles}",
+      "file" : "external_files/ipeacompleta_database.csv",
+      "type" : "CSV",
+      "schema" : "external_files/ipeacompleta_database.json",
+      "userXmd" : "external_files/ipeacompleta_database_XMD.json",
+      "rows" : 5
+    },
+    {
+      "label" : "cestabasica",
+      "name" : "cestabasica",
+      "condition" : "${Variables.Overrides.createAllExternalFiles}",
+      "file" : "external_files/cestabasica.csv",
+      "type" : "CSV",
+      "schema" : "external_files/cestabasica.json",
+      "userXmd" : "external_files/cestabasica_XMD.json",
+      "rows" : 5
+    },
+    {
+      "label" : "world-covid-data",
+      "name" : "world_covid_data",
+      "condition" : "${Variables.Overrides.createAllExternalFiles}",
+      "file" : "external_files/world_covid_data.csv",
+      "type" : "CSV",
+      "schema" : "external_files/world_covid_data.json",
+      "userXmd" : "external_files/world_covid_data_XMD.json",
+      "rows" : 5
+    },
+    {
+      "label" : "IEC_indice_expectativas - IEC_indice_expectativas",
+      "name" : "IEC_indice_expectativas_IEC_indice_expectativas",
+      "condition" : "${Variables.Overrides.createAllExternalFiles}",
+      "file" : "external_files/IEC_indice_expectativas_IEC_indice_expectativas.csv",
+      "type" : "CSV",
+      "schema" : "external_files/IEC_indice_expectativas_IEC_indice_expectativas.json",
+      "userXmd" : "external_files/IEC_indice_expectativas_IEC_indice_expectativas_XMD.json",
+      "rows" : 5
+    },
+    {
+      "label" : "ICC_indice_confianca_consumidor - ICC_indice_confianca_consumidor",
+      "name" : "ICC_indice_confianca_consumidor_ICC_indice_confianca_consumidor",
+      "condition" : "${Variables.Overrides.createAllExternalFiles}",
+      "file" : "external_files/ICC_indice_confianca_consumidor_ICC_indice_confianca_consumidor.csv",
+      "type" : "CSV",
+      "schema" : "external_files/ICC_indice_confianca_consumidor_ICC_indice_confianca_consumidor.json",
+      "userXmd" : "external_files/ICC_indice_confianca_consumidor_ICC_indice_confianca_consumidor_XMD.json",
+      "rows" : 5
+    },
+    {
+      "label" : "big-mac-source-data",
+      "name" : "big_mac_source_data",
+      "condition" : "${Variables.Overrides.createAllExternalFiles}",
+      "file" : "external_files/big_mac_source_data.csv",
+      "type" : "CSV",
+      "schema" : "external_files/big_mac_source_data.json",
+      "userXmd" : "external_files/big_mac_source_data_XMD.json",
+      "rows" : 5
+    },
+    {
+      "label" : "big-mac-source-data - Brazil",
+      "name" : "big_mac_source_data_Brazil",
+      "condition" : "${Variables.Overrides.createAllExternalFiles}",
+      "file" : "external_files/big_mac_source_data_Brazil.csv",
+      "type" : "CSV",
+      "schema" : "external_files/big_mac_source_data_Brazil.json",
+      "userXmd" : "external_files/big_mac_source_data_Brazil_XMD.json",
+      "rows" : 5
+    }
+  ],
+  "lenses" : [
+    {
+      "label" : "Average amount timeline",
+      "name" : "Average_amount_timeline_tp",
+      "condition" : "${Variables.Overrides.createAllLenses}",
+      "file" : "lenses/Average_amount_timeline.json"
+    },
+    {
+      "label" : "Avg_food_basket_price",
+      "name" : "Avg_food_basket_price_tp",
+      "condition" : "${Variables.Overrides.createAllLenses}",
+      "file" : "lenses/Avg_food_basket_price.json"
+    },
+    {
+      "label" : "Dollar price variation",
+      "name" : "Dollar_price_variation_tp",
+      "condition" : "${Variables.Overrides.createAllLenses}",
+      "file" : "lenses/Dollar_price_variation.json"
+    },
+    {
+      "label" : "Employment data",
+      "name" : "Employment_data_tp",
+      "condition" : "${Variables.Overrides.createAllLenses}",
+      "file" : "lenses/Employment_data.json"
+    },
+    {
+      "label" : "Employment rates per sector",
+      "name" : "Employment_rates_per_sector_tp",
+      "condition" : "${Variables.Overrides.createAllLenses}",
+      "file" : "lenses/Employment_rates_per_sector.json"
+    },
+    {
+      "label" : "Job type variation per date",
+      "name" : "Job_type_variation_per_date_tp",
+      "condition" : "${Variables.Overrides.createAllLenses}",
+      "file" : "lenses/Job_type_variation_per_date.json"
+    },
+    {
+      "label" : "world_cases_per_million",
+      "name" : "world_cases_deaths_tp",
+      "condition" : "${Variables.Overrides.createAllLenses}",
+      "file" : "lenses/world_cases_deaths.json"
+    }
+  ],
+  "dashboards" : [
+    {
+      "label" : "TrendAnalysis",
+      "name" : "First_dashboard_tp",
+      "condition" : "${Variables.Overrides.createAllDashboards}",
+      "file" : "dashboards/First_dashboard.json"
+    }
+  ],
+  "eltDataflows" : [ ],
+  "recipes" : [ ],
+  "datasetFiles" : [ ],
+  "storedQueries" : [ ],
+  "imageFiles" : [ ],
+  "extendedTypes" : { },
+  "templateDependencies" : [ ],
+  "icons" : {
+    "appBadge" : {
+      "name" : "16.png"
+    },
+    "templateBadge" : {
+      "name" : "default.png"
+    },
+    "templatePreviews" : [ ]
+  }
+}
